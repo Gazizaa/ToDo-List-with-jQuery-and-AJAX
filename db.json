@@ -1,0 +1,16 @@
+{
+  "lists": [
+    {
+      "task": "Read a book",
+      "id": 1
+    },
+    {
+      "task": "Call Mom",
+      "id": 2
+    },
+    {
+      "task": "Buy eggs",
+      "id": 3
+    }
+  ]
+}
